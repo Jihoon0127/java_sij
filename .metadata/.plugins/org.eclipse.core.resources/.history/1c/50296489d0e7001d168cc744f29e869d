@@ -1,0 +1,19 @@
+package controller;
+
+import model.Turtle;
+import view.Main_display;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+//		Turtle gobuk =new Turtle(10, 1, 200);
+//		
+//		gobuk.attack();
+		
+		Main_display mdp =new Main_display();
+		mdp.render();
+		
+	}
+
+}

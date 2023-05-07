@@ -1,0 +1,14 @@
+package controller;
+
+import model.Turtle;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Turtle gobuk =new Turtle(10, 1, 200);
+		
+		gobuk.attack();
+	}
+
+}

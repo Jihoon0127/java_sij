@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class SignUpView {
+	Scanner sc = new Scanner(System.in);
+	
+
+public void Signup() {
+	String id;
+	String pw;
+	String nick;
+	System.out.println("=======회원가입=======");
+	System.out.println();
+}
+}

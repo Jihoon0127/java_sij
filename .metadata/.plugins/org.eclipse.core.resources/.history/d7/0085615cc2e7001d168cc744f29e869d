@@ -1,0 +1,16 @@
+package model;
+
+public abstract class Creature {
+	
+	private int hp;
+	private int op;
+	private int dp;
+	
+
+	
+	
+	
+	
+	public abstract void void attack();
+	public abstract void void printInfo();
+}
